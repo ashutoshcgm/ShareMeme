@@ -1,6 +1,5 @@
 # ShareMeme
-This is a share meme app based on kotlin language and it uses volleyAPI to access the memes that I use to fetch image from reddit and glide library to show the image that fetch 
-and you can also share memes among your friends. 
+This is a share meme app based on Kotlin language and it uses volleyAPI to access the memes that I use to fetch images from Reddit and glide library to show the images that fetch, you can also share memes among your friends.
 Light Mode
 ![Screenshot_20220720_123519](https://user-images.githubusercontent.com/87574252/179920777-824428d3-8c6e-4a91-90d2-a652e3c2e767.png)
 ![Screenshot_20220720_123620](https://user-images.githubusercontent.com/87574252/179921328-88a35f70-ebb7-4e82-a9f2-3d916008dbdb.png)
